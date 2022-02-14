@@ -1,4 +1,4 @@
-name: py38
+name: projects-osn
 channels:
   - conda-forge
   - anaconda
